@@ -1,10 +1,10 @@
 package com.jacklinkproductions.LampControl;
 
-import net.minecraft.server.v1_7_R1.WorldServer;
+import net.minecraft.server.v1_7_R3.WorldServer;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;
-import org.bukkit.craftbukkit.v1_7_R1.CraftWorld;
+import org.bukkit.craftbukkit.v1_7_R3.CraftWorld;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class SwitchLamp extends JavaPlugin
