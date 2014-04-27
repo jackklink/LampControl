@@ -27,7 +27,7 @@ public class Main extends JavaPlugin
 	public static String takeItemOnUse = "false";
 	public static String versionOk = "false";
 	
-	public static String correctVersion = "v1_7_R1";
+	public static String correctVersion = "v1_7_R3";
 	public static int updaterID = 62770;
 	
     static PluginDescriptionFile pdfFile;
